@@ -1,0 +1,9 @@
+res://Player/Player.tscn
+res://Frog.gd
+res://BG.tscn
+res://main.tscn
+res://Frog.tscn
+res://world.tscn
+res://Collectables/Cherry.tscn
+res://main.gd
+res://Player/Player.gd
